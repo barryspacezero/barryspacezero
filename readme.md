@@ -13,16 +13,15 @@
 
 ---
 
-## projects
+## contribution snake
 
-<a href="https://radioguessr.space">
-  <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=barryspacezero&repo=RadioGuessr&theme=tokyonight&border_color=a78bfa" />
-</a>
-<a href="https://github.com/barryspacezero/Telegram-GameInfoBot">
-  <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=barryspacezero&repo=Telegram-GameInfoBot&theme=tokyonight&border_color=a78bfa" />
-</a>
-
-<br clear="both" />
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/barryspacezero/barryspacezero/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/barryspacezero/barryspacezero/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/barryspacezero/barryspacezero/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
 
 ---
 
