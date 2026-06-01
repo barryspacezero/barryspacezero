@@ -1,50 +1,33 @@
-<div align="center">
+### Hi there 👋
+[![Website](https://img.shields.io/website?label=sparshdev.space&down_color=lightgrey&down_message=offline&up_color=brightgreen&up_message=online&url=https%3A%2F%2Fsparshdev.space)](https://sparshdev.space)
 
-![Profile Views](https://komarev.com/ghpvc/?username=barryspacezero&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+### Works
+- [RadioGuessr](https://radioguessr.space): A GeoGuessr-style game where you listen to live radio streams and guess the country on a 3D globe.
+- [Telegram-GameInfoBot](https://github.com/barryspacezero/Telegram-GameInfoBot): A Telegram bot that fetches game info, screenshots, and ratings via the IGDB API.
 
-# Sparsh
+### Stack
+![](https://img.shields.io/badge/JavaScript-★★★-F7DF1E?logo=javascript)
+![](https://img.shields.io/badge/React-★★★-61DAFB?logo=react)
+![](https://img.shields.io/badge/TypeScript-★★-3178C6?logo=typescript)
+![](https://img.shields.io/badge/Vite-★★★-646CFF?logo=vite)
+![](https://img.shields.io/badge/Python-★★-3776AB?logo=python)
+![](https://img.shields.io/badge/Docker-★-2496ED?logo=docker)
+![](https://img.shields.io/badge/Git-★★★-F05032?logo=git)
 
-**frontend developer**
+> - ★★★: Frequently used
+> - ★★: Occasionally used
+> - ★: Rarely used
 
-[![Portfolio](https://img.shields.io/badge/sparshdev.space-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sparshdev.space)
-[![RadioGuessr](https://img.shields.io/badge/radioguessr.space-1a1a2e?style=for-the-badge&logo=globe&logoColor=a78bfa)](https://radioguessr.space)
+### Find Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-sparshdev.space-000000?logo=vercel&style=for-the-badge)](https://sparshdev.space)\
+[![RadioGuessr](https://img.shields.io/badge/Project-radioguessr.space-1a1a2e?logo=googlemaps&style=for-the-badge)](https://radioguessr.space)\
+[![GitHub](https://img.shields.io/badge/GitHub-barryspacezero-181717?logo=github&style=for-the-badge)](https://github.com/barryspacezero)
 
-</div>
+### Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/barryspacezero/barryspacezero/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/barryspacezero/barryspacezero/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/barryspacezero/barryspacezero/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
----
-
-## contribution snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/barryspacezero/barryspacezero/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/barryspacezero/barryspacezero/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/barryspacezero/barryspacezero/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
-
----
-
-## stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=barryspacezero&theme=tokyonight&border=a78bfa&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barryspacezero&layout=compact&theme=tokyonight&border_color=a78bfa&langs_count=6" />
-
-</div>
-
----
-
-## stack
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=f7df1e)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=for-the-badge&logo=typescript&logoColor=3b82f6)
-![React](https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=61dafb)
-![Vite](https://img.shields.io/badge/Vite-1a1a2e?style=for-the-badge&logo=vite&logoColor=a78bfa)
-![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=facc15)
-![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=38bdf8)
-
-</div>
+![](https://komarev.com/ghpvc/?username=barryspacezero&color=brightgreen)
